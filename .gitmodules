@@ -1,0 +1,3 @@
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:codino05/belajar-git-submodule.git
